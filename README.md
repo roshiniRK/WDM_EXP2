@@ -43,6 +43,8 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/e399788b-8210-418e-9f3d-7e708e8eabc9)
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +56,8 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/677e9198-6e4e-4158-91a5-ff27a12b1eee)
+
 ### RESULT: 
+
+Thus, generation of association rules using apriori algorithm is executed succesfully.
